@@ -32,4 +32,4 @@ async def save(ctx):
             
 
 
-bot.run("MTE1NTE2ODQ1MjY0Mjg3NzU3Mg.GeclRb.mgywljr5ky5yHW-rtTw-NJx_lgwkxR3H9qt_L0")
+bot.run("ТОКЕН")
